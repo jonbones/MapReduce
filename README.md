@@ -1,2 +1,3 @@
 MapReduce
 =========
+I wanted to try my hand at writing some MapReduce functions, even though I don't have access to a legit Hadoop cluster just yet...
