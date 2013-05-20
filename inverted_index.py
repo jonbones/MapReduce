@@ -1,5 +1,6 @@
 #Jonathan S. Chandranathan
-#Takes in as an input a list of books (in the format [book_id, text]) and outputs an inverted index dictionary.  In the index, each word is associated with a list of the books in which that word appears.
+#Takes in as an input a list of books (in the format [book_id, text]) and outputs an inverted index dictionary.
+#In the index, each word is associated with a list of the books in which that word appears.
 
 import MapReduce
 import sys
